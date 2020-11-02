@@ -1,3 +1,3 @@
 # TalkEasyMobi
 
-This project is created for learning purpose
+This project is created for the learning purpose
